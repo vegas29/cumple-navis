@@ -1,2 +1,0 @@
-# cumple-navis
- you know!
