@@ -143,12 +143,13 @@ h2{
 }
 
 @media (max-width:768px){
-    .hero-container{
-        margin: 200px;
+    section.hero-container{
+       width: 100%;
+       text-align: center;
     }
 
-    .hero-title .hero-text{
-        text-align: center;
+    .hero{
+        height: 60vh
     }
 
     .hero-title{
@@ -198,7 +199,7 @@ h2{
 
 .hero-container{
     display: flex;
-    
+
     align-items: center;
     color: #fff;
 }
